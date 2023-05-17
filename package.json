@@ -1,0 +1,22 @@
+{
+  "name": "lab2",
+  "version": "1.0.0",
+  "description": "lab2 handson",
+  "main": "lab2",
+  "scripts": {
+    "test": "testing"
+  },
+  "repository": {
+    "type": "git",
+    "url": "lab2"
+  },
+  "keywords": [
+    "lab2",
+    "handson"
+  ],
+  "author": "chun hin yim",
+  "license": "ISC",
+  "dependencies": {
+    "connect": "^3.7.0"
+  }
+}
